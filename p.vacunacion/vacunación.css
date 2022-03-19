@@ -1,0 +1,66 @@
+*{font-family: 'League Spartan', sans-serif;
+
+}
+.navbar{
+   opacity: .95; ;margin: none; padding: 3rem 3rem 3rem; 
+   background-color: aliceblue;
+}
+.navbar1{
+    color: #0944d8; text-decoration: none;  font-size:300%;padding:00rem 30rem 1rem 1rem;
+}
+.navbar-element{
+    color: #8B8C8E ;text-decoration: none; font-size: 250%;padding:00rem 01rem 1rem 01rem
+}
+.buton{
+    background-color: #0944d8;color: whitesmoke; border:#0944d8; width: 100px;
+}
+.button {
+    background-color:#0944d8;
+    border: none;
+    color: white;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 1px 5px 4px #021a576e;
+}
+.titulo-1{
+    color: #001858; font-family: 'League Spartan', sans-serif; font-size: 400%;padding-left: 3rem;
+}
+.texto-1{
+    color: #8B8C8E; font-family: 'League Spartan', sans-serif; font-size: 200%; padding-left: 3rem;
+}
+.background{
+    background-image: url(isis.png);height:inherit;
+    background-repeat: no-repeat;
+    background-position:right ;
+    background-size:60%;
+}
+.mini-text-1{
+    padding: 1rem .5rem 0rem 10rem;
+    font-size:large;
+    color:#001858;
+    display:inline-block;
+    border:none;
+}
+.mini-text-2{
+    padding: 0rem 0em 10rem 5rem;
+    font-size:large;
+    color:#001858;
+    border-right: none;
+    border-top:none;
+    display: inline-block;
+    border:none;
+}
+.border-sec-1{
+ border-color: #001858;
+ border
+}
+.title-sec-1{
+    color: #001858;
+    font-size: medium;
+    padding-left: 3%;
+}
+
